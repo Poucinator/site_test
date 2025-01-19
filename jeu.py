@@ -30,7 +30,7 @@ player1.add_item(Item("Grenade", "damage"), 1)
 player1.set_weapon(knife)
 player1.set_armor(shield)
 
-player2 = Player("Manuel Lolita Valch", 6, 3, 20,"Populisme")
+player2 = Player("Manuel Lolita Valch", 6, 3, 50,"Populisme")
 sleep(2)
 player2.set_weapon(sword)
 player2.set_armor(helmet)
