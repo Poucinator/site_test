@@ -9,7 +9,7 @@ from time import sleep
 from Dialogue import Dialogue
 
 knife = Weapon("Couteau", 3, 10)
-player1 = Player("Philippe Poutoux", 20, 3, 20,"Prolétariat")
+player1 = Player("Philippe Poutoux", 30, 3, 20,"Prolétariat")
 sleep(2)
 sword = Weapon("Epée", 5, 12)
 
